@@ -1,0 +1,8 @@
+# ninja log v5
+1	107	1701265630859226648	build.ninja	5f0bd72bb1f7b2f5
+0	1381	1701265632248463453	CMakeFiles/DecoratorPattern.dir/beverage.cpp.o	3959a6f25725593f
+9	1392	1701265632254135382	CMakeFiles/DecoratorPattern.dir/decorators.cpp.o	dab7fcb26dd0cc06
+0	1393	1701265632262507692	CMakeFiles/DecoratorPattern.dir/main.cpp.o	485d51fefcdad8ee
+1394	3556	1701265634432479506	DecoratorPattern	93adb234b1b7dc4b
+7	486	1701265704926147911	CMakeFiles/DecoratorPattern.dir/main.cpp.o	485d51fefcdad8ee
+486	538	1701265704981629533	DecoratorPattern	93adb234b1b7dc4b
