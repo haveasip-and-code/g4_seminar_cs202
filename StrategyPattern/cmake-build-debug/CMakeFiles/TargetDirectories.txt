@@ -1,0 +1,3 @@
+/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern/cmake-build-debug/CMakeFiles/StrategyPattern.dir
+/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern/cmake-build-debug/CMakeFiles/rebuild_cache.dir
