@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern/cmake-build-debug",
-		"source" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern"
+		"build" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/g4_seminar_cs202/StrategyPattern/cmake-build-debug",
+		"source" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/g4_seminar_cs202/StrategyPattern"
 	},
 	"version" : 
 	{

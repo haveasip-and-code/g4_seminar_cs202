@@ -1,12 +1,4 @@
 # ninja log v5
-0	707	1701078282165996578	CMakeFiles/StrategyPattern.dir/main.cpp.o	7b9c26dd35c2c6
-0	712	1701078282166000661	CMakeFiles/StrategyPattern.dir/shipping.cpp.o	79b4345e9ffe7374
-712	762	1701078282223267946	StrategyPattern	cdb760b8a9d9cc3d
-6	477	1701078295119894475	CMakeFiles/StrategyPattern.dir/main.cpp.o	7b9c26dd35c2c6
-477	531	1701078295177146676	StrategyPattern	cdb760b8a9d9cc3d
-8	5142	1701082521227079638	CMakeFiles/StrategyPattern.dir/shipping.cpp.o	79b4345e9ffe7374
-6	5155	1701082521239257601	CMakeFiles/StrategyPattern.dir/main.cpp.o	7b9c26dd35c2c6
-5156	7947	1701082524036366213	StrategyPattern	cdb760b8a9d9cc3d
-7	3679	1701243379318780292	CMakeFiles/StrategyPattern.dir/shipping.cpp.o	79b4345e9ffe7374
 5	3691	1701243379329266075	CMakeFiles/StrategyPattern.dir/main.cpp.o	7b9c26dd35c2c6
+7	3679	1701243379318780292	CMakeFiles/StrategyPattern.dir/shipping.cpp.o	79b4345e9ffe7374
 3691	6027	1701243381677021600	StrategyPattern	cdb760b8a9d9cc3d

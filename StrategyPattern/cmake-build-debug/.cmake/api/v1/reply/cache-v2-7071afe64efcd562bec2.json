@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern/cmake-build-debug"
+			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/g4_seminar_cs202/StrategyPattern/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/g4_seminar_cs202/StrategyPattern/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern"
+			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/g4_seminar_cs202/StrategyPattern"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern/cmake-build-debug"
+			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/g4_seminar_cs202/StrategyPattern/cmake-build-debug"
 		},
 		{
 			"name" : "StrategyPattern_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/StrategyPattern"
+			"value" : "/Users/nguyenbachtruonggiang/Desktop/Seminar/g4_seminar_cs202/StrategyPattern"
 		}
 	],
 	"kind" : "cache",
